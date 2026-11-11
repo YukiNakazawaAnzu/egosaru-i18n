@@ -1,0 +1,11 @@
+{
+ "suggest": "našeptávač (návrhy vyhledávání)",
+ "keyword": "klíčové slovo",
+ "expand": "rozšíření",
+ "related": "související klíčová slova",
+ "new_keyword": "nové klíčové slovo",
+ "cached": "už stažené (v mezipaměti)",
+ "api_key": "API klíč",
+ "free": "zdarma",
+ "negation_volume": "Egosaru nezobrazuje hledanost."
+}

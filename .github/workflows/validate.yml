@@ -1,0 +1,19 @@
+name: validate translations
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      EGOSARU_UI_DIR: lang
+      EGOSARU_LANGUAGES_JSON: config/languages.json
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/validate_ui_lang.py
+      - run: python scripts/validate_api_docs.py

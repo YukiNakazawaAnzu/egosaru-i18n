@@ -1,0 +1,11 @@
+{
+ "suggest": "hakuehdotukset",
+ "keyword": "hakusana",
+ "expand": "laajennus",
+ "related": "liittyvät hakusanat",
+ "new_keyword": "uudet hakusanat",
+ "cached": "jo haettu (välimuistissa)",
+ "api_key": "API-avain",
+ "free": "ilmainen",
+ "negation_volume": "Egosaru ei näytä hakumääriä."
+}

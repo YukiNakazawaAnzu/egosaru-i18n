@@ -1,0 +1,11 @@
+{
+ "suggest": "शोध सूचना",
+ "keyword": "कीवर्ड",
+ "expand": "विस्तार",
+ "related": "संबंधित कीवर्ड",
+ "new_keyword": "नवीन कीवर्ड",
+ "cached": "आधीच मिळवलेले (कॅशमध्ये)",
+ "api_key": "API की",
+ "free": "मोफत",
+ "negation_volume": "Egosaru शोध व्हॉल्यूम दाखवत नाही."
+}

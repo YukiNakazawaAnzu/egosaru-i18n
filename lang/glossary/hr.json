@@ -1,0 +1,11 @@
+{
+ "suggest": "prijedlozi pretraživanja",
+ "keyword": "ključna riječ",
+ "expand": "proširenje",
+ "related": "povezane ključne riječi",
+ "new_keyword": "nove ključne riječi",
+ "cached": "već dohvaćeno (u predmemoriji)",
+ "api_key": "API ključ",
+ "free": "besplatno",
+ "negation_volume": "Egosaru ne prikazuje volumen pretraživanja."
+}

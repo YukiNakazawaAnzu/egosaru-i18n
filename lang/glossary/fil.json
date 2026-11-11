@@ -1,0 +1,11 @@
+{
+ "suggest": "search suggestion",
+ "keyword": "keyword",
+ "expand": "pagpapalawak",
+ "related": "kaugnay na keyword",
+ "new_keyword": "bagong keyword",
+ "cached": "nakuha na (naka-cache)",
+ "api_key": "API key",
+ "free": "libre",
+ "negation_volume": "Hindi ipinapakita ng Egosaru ang search volume."
+}

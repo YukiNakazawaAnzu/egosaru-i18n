@@ -1,0 +1,11 @@
+{
+ "suggest": "ጥቆማዎች",
+ "keyword": "ቁልፍ ቃል",
+ "expand": "ማስፋፊያ",
+ "related": "ተዛማጅ ቁልፍ ቃላት",
+ "new_keyword": "አዲስ ቁልፍ ቃል",
+ "cached": "ቀድሞ የተገኘ (ካሽ)",
+ "api_key": "API ቁልፍ",
+ "free": "ነፃ",
+ "negation_volume": "Egosaru የፍለጋ መጠንን አያሳይም።"
+}

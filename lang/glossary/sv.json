@@ -1,0 +1,11 @@
+{
+ "suggest": "sökförslag",
+ "keyword": "sökord",
+ "expand": "utökning",
+ "related": "relaterade sökord",
+ "new_keyword": "nytt sökord",
+ "cached": "redan hämtat (cachat)",
+ "api_key": "API-nyckel",
+ "free": "gratis",
+ "negation_volume": "Egosaru visar inte sökvolym."
+}

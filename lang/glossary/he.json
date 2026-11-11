@@ -1,0 +1,11 @@
+{
+ "suggest": "הצעות חיפוש",
+ "keyword": "מילת מפתח",
+ "expand": "הרחבה",
+ "related": "מילות מפתח קשורות",
+ "new_keyword": "מילת מפתח חדשה",
+ "cached": "כבר נשלפה (במטמון)",
+ "api_key": "מפתח API",
+ "free": "חינם",
+ "negation_volume": "Egosaru אינו מציג נפח חיפוש."
+}

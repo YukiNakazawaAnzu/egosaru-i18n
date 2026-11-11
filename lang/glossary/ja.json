@@ -1,0 +1,11 @@
+{
+ "suggest": "サジェスト",
+ "keyword": "キーワード",
+ "expand": "展開",
+ "related": "関連キーワード",
+ "new_keyword": "新規キーワード",
+ "cached": "取得済み（キャッシュ）",
+ "api_key": "API キー",
+ "free": "無料",
+ "negation_volume": "エゴサるは検索ボリュームを表示しません。"
+}

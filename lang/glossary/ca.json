@@ -1,0 +1,11 @@
+{
+ "suggest": "suggeriments de cerca",
+ "keyword": "paraula clau",
+ "expand": "ampliació",
+ "related": "paraules clau relacionades",
+ "new_keyword": "paraula clau nova",
+ "cached": "ja obtinguda (a la memòria cau)",
+ "api_key": "clau d'API",
+ "free": "gratuït",
+ "negation_volume": "Egosaru no mostra el volum de cerques."
+}

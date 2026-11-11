@@ -1,0 +1,11 @@
+{
+ "suggest": "keresési javaslat",
+ "keyword": "kulcsszó",
+ "expand": "bővítés",
+ "related": "kapcsolódó kulcsszavak",
+ "new_keyword": "új kulcsszó",
+ "cached": "már lekért (gyorsítótárban)",
+ "api_key": "API-kulcs",
+ "free": "ingyenes",
+ "negation_volume": "Az Egosaru nem jelenít meg keresési volument."
+}

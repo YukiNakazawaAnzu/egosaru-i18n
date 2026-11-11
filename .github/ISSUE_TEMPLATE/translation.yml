@@ -1,0 +1,88 @@
+name: Translation fix / 翻訳の修正
+description: Report a sentence that sounds wrong or unnatural / 不自然な文を報告する
+title: "[translation] "
+labels: ["translation"]
+body:
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language / 言語
+      options:
+        - English (en)
+        - 日本語 (ja)
+        - Español (es)
+        - 简体中文 (zh)
+        - 繁體中文 (zh-tw)
+        - हिन्दी (hi)
+        - العربية (ar)
+        - Français (fr)
+        - Português (pt)
+        - Русский (ru)
+        - Bahasa Indonesia (id)
+        - Deutsch (de)
+        - 한국어 (ko)
+        - Türkçe (tr)
+        - Tiếng Việt (vi)
+        - Italiano (it)
+        - ไทย (th)
+        - Polski (pl)
+        - Українська (uk)
+        - Nederlands (nl)
+        - বাংলা (bn)
+        - اردو (ur)
+        - Bahasa Melayu (ms)
+        - தமிழ் (ta)
+        - فارسی (fa)
+        - Română (ro)
+        - Magyar (hu)
+        - Ελληνικά (el)
+        - Català (ca)
+        - עברית (he)
+        - Kiswahili (sw)
+        - Filipino (fil)
+        - Қазақша (kk)
+        - Čeština (cs)
+        - Svenska (sv)
+        - Dansk (da)
+        - తెలుగు (te)
+        - मराठी (mr)
+        - Oʻzbekcha (uz)
+        - Srpski (sr)
+        - Български (bg)
+        - Hrvatski (hr)
+        - Slovenčina (sk)
+        - Suomi (fi)
+        - Norsk bokmål (nb)
+        - नेपाली (ne)
+        - ગુજરાતી (gu)
+        - Azərbaycanca (az)
+        - አማርኛ (am)
+        - မြန်မာ (my)
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page URL (optional) / ページの URL（任意）
+      placeholder: https://gstudio1.com/suggest/fr/posts/google
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text / 今の文
+      description: Paste the sentence as it is now. / 今の文をそのまま貼ってください。
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Better text / 直した文
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why (optional) / 理由（任意）
+  - type: input
+    id: credit
+    attributes:
+      label: Name for CONTRIBUTORS.md (optional) / 謝辞に載せる名前（任意）

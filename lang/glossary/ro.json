@@ -1,0 +1,11 @@
+{
+ "suggest": "sugestii de căutare",
+ "keyword": "cuvânt cheie",
+ "expand": "extindere",
+ "related": "cuvinte cheie înrudite",
+ "new_keyword": "cuvânt cheie nou",
+ "cached": "deja preluat (în cache)",
+ "api_key": "cheie API",
+ "free": "gratuit",
+ "negation_volume": "Egosaru nu afișează volumul de căutări."
+}

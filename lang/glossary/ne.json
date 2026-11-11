@@ -1,0 +1,11 @@
+{
+ "suggest": "सुझाव",
+ "keyword": "किवर्ड",
+ "expand": "विस्तार",
+ "related": "सम्बन्धित किवर्ड",
+ "new_keyword": "नयाँ किवर्ड",
+ "cached": "पहिले नै प्राप्त (क्यास)",
+ "api_key": "API की",
+ "free": "निःशुल्क",
+ "negation_volume": "Egosaru ले खोज भोल्युम देखाउँदैन।"
+}

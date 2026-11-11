@@ -1,0 +1,11 @@
+{
+ "suggest": "qidiruv takliflari",
+ "keyword": "kalit soʻz",
+ "expand": "kengaytirish",
+ "related": "aloqador kalit soʻzlar",
+ "new_keyword": "yangi kalit soʻz",
+ "cached": "avval olingan (keshda)",
+ "api_key": "API kaliti",
+ "free": "bepul",
+ "negation_volume": "Egosaru qidiruv hajmini koʻrsatmaydi."
+}

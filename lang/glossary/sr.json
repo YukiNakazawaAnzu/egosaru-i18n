@@ -1,0 +1,11 @@
+{
+ "suggest": "predlozi pretrage",
+ "keyword": "ključna reč",
+ "expand": "proširenje",
+ "related": "povezane ključne reči",
+ "new_keyword": "nove ključne reči",
+ "cached": "već preuzeto (u kešu)",
+ "api_key": "API ključ",
+ "free": "besplatno",
+ "negation_volume": "Egosaru ne prikazuje obim pretrage."
+}

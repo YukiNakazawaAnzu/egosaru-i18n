@@ -1,0 +1,11 @@
+{
+ "suggest": "axtarış təklifləri",
+ "keyword": "açar söz",
+ "expand": "genişləndirmə",
+ "related": "əlaqəli açar sözlər",
+ "new_keyword": "yeni açar söz",
+ "cached": "artıq alınmış (keşdə)",
+ "api_key": "API açarı",
+ "free": "pulsuz",
+ "negation_volume": "Egosaru axtarış həcmini göstərmir."
+}

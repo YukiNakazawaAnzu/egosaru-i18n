@@ -1,0 +1,11 @@
+{
+ "suggest": "cadangan carian",
+ "keyword": "kata kunci",
+ "expand": "pengembangan",
+ "related": "kata kunci berkaitan",
+ "new_keyword": "kata kunci baharu",
+ "cached": "sudah diambil (dalam cache)",
+ "api_key": "kunci API",
+ "free": "percuma",
+ "negation_volume": "Egosaru tidak memaparkan volum carian."
+}

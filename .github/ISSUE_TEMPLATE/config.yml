@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Egosaru
+    url: https://gstudio1.com/suggest/en/posts/google
+    about: The service these translations are for
+  - name: Contact form (no GitHub account needed)
+    url: https://gstudio1.com/suggest/en/contact
+    about: Send a translation fix without GitHub

@@ -1,0 +1,11 @@
+{
+ "suggest": "အကြံပြုချက်",
+ "keyword": "သော့ချက်စာလုံး",
+ "expand": "ချဲ့ထွင်ခြင်း",
+ "related": "ဆက်စပ် သော့ချက်စာလုံးများ",
+ "new_keyword": "သော့ချက်စာလုံးအသစ်",
+ "cached": "ရယူပြီးသား (cache)",
+ "api_key": "API key",
+ "free": "အခမဲ့",
+ "negation_volume": "Egosaru သည် ရှာဖွေမှုပမာဏ (search volume) ကို မပြသပါ။"
+}
