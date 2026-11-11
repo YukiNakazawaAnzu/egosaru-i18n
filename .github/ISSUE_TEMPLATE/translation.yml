@@ -1,5 +1,5 @@
 name: Translation fix / 翻訳の修正
-description: Report a sentence that sounds wrong or unnatural / 不自然な文を報告する
+description: Report a sentence that sounds wrong or unnatural. You can write in any language. / 不自然な文を報告する（どの言語で書いてもかまいません）
 title: "[translation] "
 labels: ["translation"]
 body:

@@ -1,5 +1,9 @@
 # Egosaru translations
 
+**Help improve Egosaru in your language / あなたの言語でエゴサるをよくする手伝いを:**
+
+[日本語](docs/ja.md) · [简体中文](docs/zh.md) · [繁體中文](docs/zh-tw.md) · [हिन्दी](docs/hi.md) · [Bahasa Indonesia](docs/id.md) · [한국어](docs/ko.md) · [Tiếng Việt](docs/vi.md) · [ไทย](docs/th.md) · [বাংলা](docs/bn.md) · [اردو](docs/ur.md) · [Bahasa Melayu](docs/ms.md) · [தமிழ்](docs/ta.md) · [Filipino](docs/fil.md) · [Қазақша](docs/kk.md) · [తెలుగు](docs/te.md) · [मराठी](docs/mr.md) · [Oʻzbekcha](docs/uz.md) · [नेपाली](docs/ne.md) · [ગુજરાતી](docs/gu.md) · [မြန်မာ](docs/my.md) · [العربية](docs/ar.md) · [Türkçe](docs/tr.md) · [فارسی](docs/fa.md) · [עברית](docs/he.md) · [Kiswahili](docs/sw.md) · [Azərbaycanca](docs/az.md) · [አማርኛ](docs/am.md) · [Français](docs/fr.md) · [Русский](docs/ru.md) · [Deutsch](docs/de.md) · [Italiano](docs/it.md) · [Polski](docs/pl.md) · [Українська](docs/uk.md) · [Nederlands](docs/nl.md) · [Română](docs/ro.md) · [Magyar](docs/hu.md) · [Ελληνικά](docs/el.md) · [Català](docs/ca.md) · [Čeština](docs/cs.md) · [Svenska](docs/sv.md) · [Dansk](docs/da.md) · [Srpski](docs/sr.md) · [Български](docs/bg.md) · [Hrvatski](docs/hr.md) · [Slovenčina](docs/sk.md) · [Suomi](docs/fi.md) · [Norsk bokmål](docs/nb.md) · [English](docs/en.md) · [Español](docs/es.md) · [Português](docs/pt.md)
+
 The interface text of [Egosaru](https://gstudio1.com/suggest/en/posts/google) (a free tool that collects search autocomplete suggestions from Google, Bing, YouTube, Amazon and more, expanded letter by letter) and of its [Suggest API documentation](https://gstudio1.com/api/en/), in 50 languages.
 
 **The translations were written with AI (Claude) and have not been reviewed by native speakers yet. If you read one of these languages, you can make them better.** It takes a minute.
